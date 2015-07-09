@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExServicios</string>
+
+    <string name="mensaje">Activar o desactivar el servicio</string>
+    <string name="action_settings">Settings</string>
+    <string name="activar">Activar</string>
+    <string name="desactivar">Desactivar</string>
+</resources>
